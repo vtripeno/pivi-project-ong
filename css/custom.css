@@ -49,6 +49,10 @@ body {
     height: 3em;
 }
 
+h1 {
+    color: #0066ff;
+}
+
 header {
     height: 10px;
 }
