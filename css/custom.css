@@ -49,6 +49,17 @@ body {
     height: 3em;
 }
 
+.button-blog {
+    display: block;
+    margin: 0 auto;
+    border-radius: 45px;
+    text-align:center;
+    background-color: #ff751a;
+    color: white;
+    width: 12em;
+    height: 3em;
+}
+
 .button-donate-carousel {
     display: block;
     margin: 0 auto;
